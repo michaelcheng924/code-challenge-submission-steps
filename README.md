@@ -1,3 +1,5 @@
+## Click "Assignments" tab in learn.co
+
 ## Fork the code challenge repo
 
 ![Fork](/1_fork.png)
